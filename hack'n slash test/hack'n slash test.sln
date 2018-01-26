@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hack'n slash test", "Assembly-CSharp.csproj", "{BA804CD7-F8D4-35D4-DFC2-C5D1ED13852E}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hack'n slash test", "hack'n slash test.csproj", "{95B77545-3B4D-3ED1-4D68-C2C67187EF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BA804CD7-F8D4-35D4-DFC2-C5D1ED13852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA804CD7-F8D4-35D4-DFC2-C5D1ED13852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA804CD7-F8D4-35D4-DFC2-C5D1ED13852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA804CD7-F8D4-35D4-DFC2-C5D1ED13852E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B77545-3B4D-3ED1-4D68-C2C67187EF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B77545-3B4D-3ED1-4D68-C2C67187EF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B77545-3B4D-3ED1-4D68-C2C67187EF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B77545-3B4D-3ED1-4D68-C2C67187EF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
