@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Shaderquest/Low Poly Free Pack/Demo Scenes/Sewer.unity
+  isLoaded: 1
+  isActive: 1
